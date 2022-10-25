@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ⚡ BREAK YOUR LIMITS ⚡
 
 
-#S K I L L S:
+#S K I L L S :
 
 Python. Django. HTML5. CSS. Bootstrap. Git.
 
