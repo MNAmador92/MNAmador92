@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 #A B O U T . M E :
 
-• I'm 30 years old. I'm road to train as a back-end software developer 👩‍💻.
+• I am 30 years old and I am road to train as a Back-End Software Developer 👩‍💻.
 
 • I really like challenges and learning new things 🤓. I am amazed to see that in the IT world there are no limits when it comes to creating ✨, it only requires dedication, desire and passion for what you do, and that is what I feel when I write code 🤩.
 
