@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 • I really like challenges and learning new things 🤓. I am amazed to see that in the IT world there are no limits when it comes to creating ✨, it only requires dedication, desire and passion for what you do, and that is what I feel when I write code 🤩.
 
+<p align="center">
 ⚡ BREAK YOUR LIMITS ⚡
 
 
